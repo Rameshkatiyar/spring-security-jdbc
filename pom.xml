@@ -22,7 +22,7 @@
         <postgresql.version>9.4-1206-jdbc42</postgresql.version>
         <lombok.version>1.16.16</lombok.version>
         <guava.version>21.0</guava.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <univocity.parsers.version>2.7.6</univocity.parsers.version>
     </properties>
 
